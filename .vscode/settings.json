@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "D:\\Anaconda3\\envs\\Pytorch_env\\python.exe",
+    "cSpell.words": [
+        "CLAHE",
+        "asarray",
+        "conv",
+        "cuda",
+        "imshow",
+        "imwrite",
+        "msyh",
+        "optim",
+        "randn",
+        "rects",
+        "relu"
+    ]
+}
