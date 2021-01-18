@@ -63,4 +63,4 @@ def saveFace(image, tag, num):
 
 
 if __name__ == "__main__":
-    loggingFromVideo("yhy")
+    loggingFromVideo("xxx")

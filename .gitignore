@@ -1,4 +1,5 @@
-/data
-/img_dark.jpg
-/img_light.jpg
-/Preview.py
+./data/
+./img_dark.jpg
+./img_light.jpg
+./Preview.py
+./__pycache__/
